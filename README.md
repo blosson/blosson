@@ -6,7 +6,15 @@
 4. 영어 공부 매일 꾸준히 (특히 단어, 듣기, 스피킹)
 5. 외국인 친구들 이곳저곳 데리고 다니기 <br>
 ___
-`"문과직무가 싫어요."` `"코린이입니다."`
+```
+문과직무가 싫어요.
+코린이입니다. 
+```
+|언젠가 적을 테스트용|테이블|
+|:--:|:--:|
+|Cell1|Cell2|
+|Cell1|Cell2|
+|Cell1|Cell2|
 
 <!--
 **blosson/blosson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
