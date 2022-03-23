@@ -10,11 +10,11 @@ ___
 문과직무가 싫어요.
 코린이입니다. 
 ```
-|언젠가 적을 테스트용|테이블|
+|그냥 적어보는|좋아하는 노래들|
 |:--:|:--:|
-|Cell1|Cell2|
-|Cell1|Cell2|
-|Cell1|Cell2|
+|검정치마|Everything|
+|LANY|Pink Skies|
+|신혜경|그대의 꿈결|
 
 <!--
 **blosson/blosson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
