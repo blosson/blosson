@@ -14,7 +14,7 @@ ___
 |:--:|:--:|
 |검정치마|Everything|
 |LANY|Pink Skies|
-|신혜경|그대의 꿈결|
+|신해경|그대의 꿈결|
 
 <!--
 **blosson/blosson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
