@@ -1,9 +1,9 @@
-### 🌎 Minhyeok Son
+## 🌎 Minhyeok Son
 <a href="https://blog.naver.com/handgolight"> <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> </t>
 <img src="https://img.shields.io/badge/mh.blosson@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 
-### 🛠 Stacks
+## 🛠 Stacks
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
