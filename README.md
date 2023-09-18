@@ -33,9 +33,9 @@
 
 
 ## 🌎 Languages
-<img src="https://img.shields.io/badge/English-150458?style=flat-square&logo=Jira&logoColor=white"/> </t>
-<img src="https://img.shields.io/badge/Korean-150458?style=flat-square&logo=Jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Japanese-FF160B?style=flat-square&logo=Jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/English-150458?style=flat-square&logo=&logoColor=white"/> </t>
+<img src="https://img.shields.io/badge/Korean-000000?style=flat-square&logo=&logoColor=black"/>
+<img src="https://img.shields.io/badge/Japanese-FF160B?style=flat-square&logo=&logoColor=white"/>
 
 
 
