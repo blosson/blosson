@@ -1,4 +1,6 @@
 ## 🌎 Minhyeok Son
+"From a dreamer to a developer"
+
 <a href="https://blog.naver.com/handgolight"> <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> </t>
 <img src="https://img.shields.io/badge/mh.blosson@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
